@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="asterisk-java-1.0.0.CI-20140219.214527-1525">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/asterisk-java-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
